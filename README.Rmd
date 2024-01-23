@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/sangovae/tester/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sangovae/tester/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/sangovae/tester/branch/master/graph/badge.svg)](https://app.codecov.io/gh/sangovae/tester?branch=master)
 <!-- badges: end -->
 
 The goal of tester is to provides functionality for my package. These functions are for use only with Sanne Govaert and no other people.
